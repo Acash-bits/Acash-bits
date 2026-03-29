@@ -11,7 +11,7 @@ Strategist & Analyst<br><br>I actively study economics and applied research to h
 
 ![](https://github-readme-stats.vercel.app/api?username=Acash-bits&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
-![](https://streak-stats.demolab.com/?user=Acash-bits&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats-eight.vercel.app?user=Acash-bits&theme=dark)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Acash-bits&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
